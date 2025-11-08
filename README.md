@@ -2,7 +2,7 @@
 
 A collection of mathematical and computer science proofs, derivations, and theoretical explorations, from classic problems to complexity and AI reasoning.
 
-## 📚 Categories
+## Categories (in progress)
 - **Mathematics**
   - Algebra
   - Geometry
