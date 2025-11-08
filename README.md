@@ -16,6 +16,6 @@ A collection of mathematical and computer science proofs, derivations, and theor
   - Physics & Computation
 
 ## Philosophy
-> “A proof is the purest form of thought, it turns belief into certainty.” 
+> *“A proof is the purest form of thought, it turns belief into certainty.”*
 
 This repository is a living archive of my learning and reasoning journey <3
