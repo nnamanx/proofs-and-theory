@@ -1,6 +1,6 @@
 
 - **Mathematics**
-  - Algebra
-  - Geometry
+  - Basics (Algebra, Geometry)
   - Number Theory
+  - Graph Theory
 
