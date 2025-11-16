@@ -1,7 +1,8 @@
 # Complete Graph Edge Count Proof
 
 **Category:** Graph Theory 
-**Dare:** 11/11/2025 
+
+**Date:** 11/11/2025 
 
 A short mathematical proof showing why a **complete graph** with n vertices has  `n(n - 1) / 2` edges.
 
